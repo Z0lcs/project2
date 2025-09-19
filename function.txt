@@ -1,2 +1,2 @@
 max(2,3)
-
+factorial(5)
